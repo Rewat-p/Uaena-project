@@ -6,7 +6,7 @@
       "description": "This is a demo NFT for Medium stories.\nこれは、ストーリー「Medium」のデモNFTです。",
       "image": "https://www.tosbase.com/content/img/icons/items/icon_item_shirts_albinosas.png",
       "price": 100,
-      "grade": 'common',
+      "grade": "common",
       "rating": 1
     },
     {
@@ -15,7 +15,7 @@
       "description": "This is a demo NFT for Medium stories.\nこれは、ストーリー「Medium」のデモNFTです。",
       "image": "https://www.tosbase.com/content/img/icons/items/icon_item_9rank_iorn_02_amor.png",
       "price": 1000,
-      "grade": 'legendary',
+      "grade": "legendary",
       "rating": 4.5
     }
   ]
