@@ -4,7 +4,7 @@
       "id": 100101,
       "name": "Replica Albinosas Leather Armor",
       "description": "This is a demo NFT for Medium stories.\nこれは、ストーリー「Medium」のデモNFTです。",
-      "image": "https://www.tosbase.com/content/img/icons/items/icon_item_shirts_albinosas.png",
+      "image": "http://localhost:3000/images/outfits/100101.png",
       "price": 100,
       "grade": "common",
       "rating": 1
@@ -13,7 +13,7 @@
       "id": 100102,
       "name": "Ausura Plate Armor",
       "description": "This is a demo NFT for Medium stories.\nこれは、ストーリー「Medium」のデモNFTです。",
-      "image": "https://www.tosbase.com/content/img/icons/items/icon_item_9rank_iorn_02_amor.png",
+      "image": "http://localhost:3000/images/outfits/100102.png",
       "price": 1000,
       "grade": "legendary",
       "rating": 4.5
