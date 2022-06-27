@@ -2,21 +2,165 @@
   "uaena-item": [
     {
       "id": 100101,
-      "name": "Replica Albinosas Leather Armor",
-      "description": "This is a demo NFT for Medium stories.\nこれは、ストーリー「Medium」のデモNFTです。",
+      "name": "DEMON'S MARROW",
+      "description": "Sulam had a vision of creating a suit of armor, crafted from the flesh of demons, in order to use their power against them.",
       "image": "http://localhost:3000/images/outfits/100101.png",
-      "price": 100,
+      "icon": "http://localhost:3000/images/outfits/icon/100101.png",
+      "type": {
+        "id": 1,
+        "name": "Outfits"
+      },
       "grade": "common",
-      "rating": 1
+      "rating": 1,
+      "stats": {
+        "health": 10,
+        "attack": 0,
+        "defense": 5
+      }
     },
     {
       "id": 100102,
-      "name": "Ausura Plate Armor",
-      "description": "This is a demo NFT for Medium stories.\nこれは、ストーリー「Medium」のデモNFTです。",
+      "name": "Shi Mizu's Haori",
+      "description": "\"Being near death tends to focus the mind.\" —Shi Mizu, Warrior-Philosopher",
       "image": "http://localhost:3000/images/outfits/100102.png",
-      "price": 1000,
+      "icon": "http://localhost:3000/images/outfits/icon/100102.png",
+      "type": {
+        "id": 1,
+        "name": "Outfits"
+      },
+      "grade": "rare",
+      "rating": 4.5,
+      "stats": {
+        "health": 30,
+        "attack": 0,
+        "defense": 25
+      }
+    },
+    {
+      "id": 100201,
+      "name": "CAIN'S SANDALS",
+      "description": "Deckard Cain spent the last twenty years of his life traveling the world in search of information needed to defeat the Lords of Hell.",
+      "image": "http://localhost:3000/images/outfits/100201.png",
+      "icon": "http://localhost:3000/images/outfits/icon/100201.png",
+      "type": {
+        "id": 2,
+        "name": "Boots"
+      },
+      "grade": "rare",
+      "rating": 4.5,
+      "stats": {
+        "health": 5,
+        "attack": 0,
+        "defense": 2
+      }
+    },
+    {
+      "id": 100202,
+      "name": "FIRE WALKERS",
+      "description": "Tradition has it that these boots were forged in the heart of the great Challsop Volcano.",
+      "image": "http://localhost:3000/images/boots/100201.png",
+      "icon": "http://localhost:3000/images/boots/icon/100201.png",
+      "type": {
+        "id": 2,
+        "name": "Boots"
+      },
+      "grade": "rare",
+      "rating": 4.5,
+      "stats": {
+        "health": 10,
+        "attack": 0,
+        "defense": 5
+      }
+    },
+    {
+      "id": 100301,
+      "name": "Apprentice's Wand",
+      "description": "",
+      "image": "http://localhost:3000/images/wepons/100301.png",
+      "icon": "http://localhost:3000/images/wepons/icon/100301.png",
+      "type": {
+        "id": 3,
+        "name": "Wepons"
+      },
+      "grade": "rare",
+      "rating": 2,
+      "stats": {
+        "health": 0,
+        "attack": 5,
+        "defense": 0
+      }
+    },
+    {
+      "id": 100302,
+      "name": "Jade Wand",
+      "description": "",
+      "image": "http://localhost:3000/images/wepons/100302.png",
+      "icon": "http://localhost:3000/images/wepons/icon/100302.png",
+      "type": {
+        "id": 3,
+        "name": "Wepons"
+      },
+      "grade": "rare",
+      "rating": 4,
+      "stats": {
+        "health": 0,
+        "attack": 15,
+        "defense": 0
+      }
+    },
+    {
+      "id": 100303,
+      "name": "Starfire",
+      "description": "Crafted around a shard that fell from the sky during the Festival of Lights.",
+      "image": "http://localhost:3000/images/wepons/100303.png",
+      "icon": "http://localhost:3000/images/wepons/icon/100303.png",
+      "type": {
+        "id": 3,
+        "name": "Wepons"
+      },
       "grade": "legendary",
-      "rating": 4.5
+      "rating": 5,
+      "stats": {
+        "health": 0,
+        "attack": 30,
+        "defense": 0
+      }
+    },
+    {
+      "id": 100401,
+      "name": "Cloud",
+      "description": "",
+      "image": "http://localhost:3000/images/pets/100401.png",
+      "icon": "http://localhost:3000/images/pets/icon/100401.png",
+      "type": {
+        "id": 4,
+        "name": "Pets"
+      },
+      "grade": "uncommon",
+      "rating": 3.5,
+      "stats": {
+        "health": 0,
+        "attack": 10,
+        "defense": 0
+      }
+    },
+    {
+      "id": 100402,
+      "name": "Cat",
+      "description": "",
+      "image": "http://localhost:3000/images/pets/100402.png",
+      "icon": "http://localhost:3000/images/pets/icon/100402.png",
+      "type": {
+        "id": 4,
+        "name": "Pets"
+      },
+      "grade": "uncommon",
+      "rating": 3.5,
+      "stats": {
+        "health": 10,
+        "attack": 0,
+        "defense": 15
+      }
     }
   ]
 }
