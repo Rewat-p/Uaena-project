@@ -58,8 +58,8 @@
       "id": 100202,
       "name": "FIRE WALKERS",
       "description": "Tradition has it that these boots were forged in the heart of the great Challsop Volcano.",
-      "image": "http://localhost:3000/images/boots/100201.png",
-      "icon": "http://localhost:3000/images/boots/icon/100201.png",
+      "image": "http://localhost:3000/images/boots/100202.png",
+      "icon": "http://localhost:3000/images/boots/icon/100202.png",
       "type": {
         "id": 2,
         "name": "Boots"
