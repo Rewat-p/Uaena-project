@@ -40,8 +40,8 @@
       "id": 100201,
       "name": "CAIN'S SANDALS",
       "description": "Deckard Cain spent the last twenty years of his life traveling the world in search of information needed to defeat the Lords of Hell.",
-      "image": "http://localhost:3000/images/outfits/100201.png",
-      "icon": "http://localhost:3000/images/outfits/icon/100201.png",
+      "image": "http://localhost:3000/images/boots/100201.png",
+      "icon": "http://localhost:3000/images/boots/icon/100201.png",
       "type": {
         "id": 2,
         "name": "Boots"
